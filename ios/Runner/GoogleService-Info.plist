@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>527788671289-aqnsi6l89ic32utbb6o5888vtmj1rt2h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.527788671289-aqnsi6l89ic32utbb6o5888vtmj1rt2h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>527788671289-8t0dn4sk0fh21ndhab13806epjr7fmp6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyArdjbKzc5ZQJaUdGOIJa9ax2juXEwH7ZU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>527788671289</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.irohubProject</string>
+	<key>PROJECT_ID</key>
+	<string>ridhun-s-project</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ridhun-s-project.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:527788671289:ios:a77778c756b4355423a8e8</string>
+	<key>DATABASE_URL</key>
+	<string>https://ridhun-s-project-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
